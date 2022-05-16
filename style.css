@@ -24,6 +24,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
+  margin: 20px 0px -18px 67px;
 }
 .global {
   font-size: 7em;
@@ -97,6 +98,7 @@ i {
     justify-content: center;
     align-items: center;
     width: 100%;
+    margin: 20px 0px -18px 67px;
   }
   .global {
     font-size: 7em;
